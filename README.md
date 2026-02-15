@@ -27,7 +27,7 @@
 <p align="left">
   - 🔭 I’m currently working on backend systems using Python, FastAPI, and Django.<br>
   - 🛠️ Proficient in architecting RESTful APIs, managing SQL databases, and containerizing environments with Docker & Nginx.<br>
-  - 🌱 I’m currently learning the Go and Rust ecosystems to build ultra-efficient, memory-safe systems/applications and exploring Machine Learning.<br>
+  - 🌱 I’m currently learning the Go and Rust ecosystems to build ultra-efficient, memory-safe systems/applications and exploring ML.<br>
   - 💻 Intermediate knowledge in frontend basics like JavaScript, Bootstrap, and HTML to bridge the gap between UI and logic.
 </p>
 
