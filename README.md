@@ -38,7 +38,7 @@
 ###
 <div align="center">
 
-  "Currently on a journey to uncover the hidden mechanics of the tech world—peeling back the layers of backend systems, automation, and distributed architectures to understand how things *truly* work."
+  **"Currently on a journey to uncover the hidden mechanics of the tech world—peeling back the layers of backend systems, automation, and distributed architectures to understand how things *truly* work."**
 
 </div>
 
