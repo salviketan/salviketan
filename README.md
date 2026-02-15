@@ -8,13 +8,13 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻  About Me:</h3>
 
 ###
 
 <br clear="both">
 
-<p align="left">I'm am a Backend Developer<br><br>- 🔭 I’m currently working on backend systems using Python, FastAPI, and Django.<br>- 🛠️ Proficient in architecting RESTful APIs, managing SQL databases, and containerizing environments with Docker & Nginx.<br>- 🌱 I’m currently learning the Go and Rust ecosystems to build ultra-efficient, memory-safe automation and exploring Machine Learning.<br>- 💻 Intermediate knowledge in frontend basics like JavaScript, Bootstrap, and HTML to bridge the gap between UI and logic.</p>
+<p align="left">I'm a Backend Developer<br><br>- 🔭 I’m currently working on backend systems using Python, FastAPI, and Django.<br>- 🛠️ Proficient in architecting RESTful APIs, managing SQL databases, and containerizing environments with Docker & Nginx.<br>- 🌱 I’m currently learning the Go and Rust ecosystems to build ultra-efficient, memory-safe automation and exploring Machine Learning.<br>- 💻 Intermediate knowledge in frontend basics like JavaScript, Bootstrap, and HTML to bridge the gap between UI and logic.</p>
 
 ###
 
@@ -22,7 +22,7 @@
 
 ###
 
-<p align="center">Currently on a journey to uncover the hidden mechanics of the tech world—peeling back the layers of backend systems, automation, and distributed architectures to understand how things *truly* work."</p>
+<p align="center">"Currently on a journey to uncover the hidden mechanics of the tech world—peeling back the layers of backend systems, automation, and distributed architectures to understand how things *truly* work."</p>
 
 ###
 
@@ -76,6 +76,11 @@
 
 ###
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+###
+
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
@@ -83,9 +88,17 @@
 <br clear="both">
 
 <div align="left">
-  <img src="https://github-readme-stats-three-murex-99.vercel.app//api?username=salviketan&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1&custom_title=KStats" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats-three-murex-99.vercel.app//api/top-langs?username=salviketan&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2&custom_title=myLang" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats-three-murex-99.vercel.app/api?username=salviketan&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1&custom_title=KStats" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats-three-murex-99.vercel.app/api/top-langs?username=salviketan&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2&custom_title=KLang" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="left">
   <img src="https://streak-stats.demolab.com?user=salviketan&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=salviketan&theme=high-contrast&color=008000&line=008000&point=90EE90&title_color=008000&area=true&hide_border=true&hide_title=true&radius=6&custom_title=KGraph" height="150" alt="activity-graph graph"  />
 </div>
 
 ###
