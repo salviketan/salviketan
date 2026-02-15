@@ -97,7 +97,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+From: 08 February 2026 - To: 15 February 2026
+
+Python       1 hr 34 mins    █████████████░░░░░░░░░░░░   52.16 %
+Markdown     1 hr 15 mins    ██████████▒░░░░░░░░░░░░░░   41.51 %
+YAML         10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.54 %
+Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+Docker       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->
