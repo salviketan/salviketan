@@ -1,4 +1,14 @@
-<h1 align="center">hey there 👋</h1>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salviketan.salviketan&"  />
+
+###
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ketan+Salvi!;" />
+</h1>
+
+###
+
+<h3 align="center">A passionate software developer from India 🇮🇳 </h3>
 
 ###
 
@@ -14,19 +24,27 @@
 
 <br clear="both">
 
-<p align="left">I'm a Backend Developer<br><br>- 🔭 I’m currently working on backend systems using Python, FastAPI, and Django.<br>- 🛠️ Proficient in architecting RESTful APIs, managing SQL databases, and containerizing environments with Docker & Nginx.<br>- 🌱 I’m currently learning the Go and Rust ecosystems to build ultra-efficient, memory-safe automation and exploring Machine Learning.<br>- 💻 Intermediate knowledge in frontend basics like JavaScript, Bootstrap, and HTML to bridge the gap between UI and logic.</p>
+<p align="left">
+  - 🔭 I’m currently working on backend systems using Python, FastAPI, and Django.<br>
+  - 🛠️ Proficient in architecting RESTful APIs, managing SQL databases, and containerizing environments with Docker & Nginx.<br>
+  - 🌱 I’m currently learning the Go and Rust ecosystems to build ultra-efficient, memory-safe systems/applications and exploring Machine Learning.<br>
+  - 💻 Intermediate knowledge in frontend basics like JavaScript, Bootstrap, and HTML to bridge the gap between UI and logic.
+</p>
 
 ###
 
 <h3 align="center">🕵️ The Mission</h3>
 
 ###
+<div align="center">
 
-<p align="center">"Currently on a journey to uncover the hidden mechanics of the tech world—peeling back the layers of backend systems, automation, and distributed architectures to understand how things *truly* work."</p>
+  "Currently on a journey to uncover the hidden mechanics of the tech world—peeling back the layers of backend systems, automation, and distributed architectures to understand how things *truly* work."
+
+</div>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Languages and tools</h3>
 
 ###
 
@@ -81,7 +99,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="center">⚡ My Stats ⚡</h3>
 
 ###
 
@@ -117,9 +135,5 @@
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="hackerrank logo"  />
   </a>
 </div>
-
-###
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salviketan.salviketan&"  />
 
 ###
