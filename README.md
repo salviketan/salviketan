@@ -97,11 +97,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 March 2026 - To: 26 March 2026
+From: 20 March 2026 - To: 27 March 2026
 
-YAML     3 hrs 40 mins         █████████████████▒░░░░░░░   68.83 %
-Python   1 hr 24 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.54 %
-Other    10 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
+YAML     2 hrs 4 mins          ███████████████░░░░░░░░░░   59.55 %
+Python   1 hr 10 mins          ████████▒░░░░░░░░░░░░░░░░   33.48 %
+Other    10 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.97 %
 ```
 
 <!--END_SECTION:waka-->
