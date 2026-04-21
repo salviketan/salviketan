@@ -97,13 +97,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 April 2026 - To: 19 April 2026
+From: 13 April 2026 - To: 20 April 2026
 
-YAML                       59 mins               █████████▒░░░░░░░░░░░░░░░   36.98 %
-Python                     57 mins               █████████░░░░░░░░░░░░░░░░   36.07 %
-Docker                     26 mins               ████░░░░░░░░░░░░░░░░░░░░░   16.52 %
-Go                         7 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 %
-Nginx configuration file   6 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 %
+YAML                       1 hr 9 mins           █████████████░░░░░░░░░░░░   52.36 %
+Docker                     26 mins               █████░░░░░░░░░░░░░░░░░░░░   20.16 %
+Python                     13 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.29 %
+Other                      8 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.65 %
 ```
 
 <!--END_SECTION:waka-->
