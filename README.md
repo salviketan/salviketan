@@ -97,9 +97,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 May 2026 - To: 04 June 2026
+From: 30 May 2026 - To: 06 June 2026
 
-No activity tracked
+Go       1 hr 11 mins          ████████████░░░░░░░░░░░░░   48.61 %
+YAML     38 mins               ██████▓░░░░░░░░░░░░░░░░░░   26.30 %
+Docker   27 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.48 %
+Python   7 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.02 %
+Bash     1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
 ```
 
 <!--END_SECTION:waka-->
