@@ -123,7 +123,7 @@ Go   10 mins               █████████████████�
 
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=salviketan&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=salviketan&theme=high-contrast&color=008000&line=008000&point=90EE90&title_color=008000&area=true&hide_border=true&hide_title=true&radius=6&custom_title=KGraph" height="150" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph-dun-one.vercel.app/graph?username=salviketan&theme=high-contrast&color=008000&line=008000&point=90EE90&title_color=008000&area=true&hide_border=true&hide_title=true&radius=6&custom_title=KGraph" height="150" alt="activity-graph graph"  />
 </div>
 
 ###
